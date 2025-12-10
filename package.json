@@ -1,5 +1,5 @@
 {
-  "name": "partytown-host",
+  "name": "partytown-shopify-host",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@builder.io/partytown": "latest",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
   }
 }
